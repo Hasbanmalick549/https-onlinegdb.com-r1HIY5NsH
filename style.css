@@ -1,0 +1,412 @@
+body {
+  
+  font-family: Times New Roman,Arial,Tahoma,Trebuchet MS,Georgia;
+  width: 100%;
+}
+.header{
+  
+  background-color: rgb(
+  96,130,250
+  );
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+.inline {
+  display: inline-block;
+}
+.fimage{
+  display: inline-block;
+  margin-left: 3%;
+  margin-right: 3%;
+  margin-top: 15px;
+}
+.facebook{
+  background-color: black;
+  width: 20px;
+  height: 20px;
+  background-size:50px;
+  /*toward down ,toward right, toward up, toward left */
+  margin: 5px 5px 0.5px 5px 
+  
+}
+
+.tweeter{
+  width: 20px;
+  height: 20px;
+  margin: 5px 5px 0.5px 5px;
+  
+}
+
+.youtube{
+  width: 20px;
+  height: 20px;
+  margin: 5px 5px 0.5px 5px;
+}
+
+.whatsapp{
+  width: 20px;
+  height: 20px;
+  margin: 5px 5px 0.5px 5px;
+}
+.fpara{
+  display: inline-block;
+  color: white;
+  margin-left: 3%;
+  margin-right: 3%;
+}
+.donar {
+  display: inline-block;
+  margin-left: 3%;
+  margin-right: 3%;
+  margin-bottom: 4px;
+}
+.saylanihome {
+  height: 80px;
+  width: 250px;
+  margin-left: 10%;
+}
+.hpadding {
+  padding: 6.5px 6.5px 6.5px 6.5px;
+  font-size: 90%;
+  background-color: rgba(205,205,205,0.5);
+  color: black;
+  text-decoration: none;
+  border: 1px solid rgba(205,205,205,0.5);
+  
+}
+.homecenter{
+  text-align: center;
+}
+.wpadding {
+  padding: 5px 5px 5px 5px;
+  margin: 5px;
+  border: none;
+  background-color: rgba(205,205,205,0.5);
+  color: black;
+  height: 30px;
+  width: 130px;
+  text-decoration: none;
+  font-family: Times New Roman,Arial;
+  border: 1px solid rgba(205,205,205,0.5);
+  
+}
+.mednws{
+  font-weight: normal;
+  padding: 6.5px 6.5px 6.5px 6.5px;
+  font-size: 90%;
+}
+.contact{
+  margin-left: 10.5%;
+  margin-top: 2%;
+  background-color: rgba(205,205,205,0.5);
+  height: 20px;
+  width: 90px;
+  padding: 5px 5px 5px 5px;
+  border: 1px solid rgba(205,205,205,0.5);
+}
+.contactcl{
+  color: red;
+}
+.stayhome{
+  height: 500px;
+  width: 100%;
+  margin: 20px 0px 0px 0px;
+}
+.divscrol{
+  width: 100%;
+  text-align: center;
+}
+.scrol {
+  background-color: rgb(
+  96,130,222
+  );
+  width: 70%;
+  text-align: center;
+  color: silver;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+.introduction {
+  text-align: center;
+  font-family: Times New Roman ,areal ;
+}
+
+.intro{
+  color: blue;
+}
+.duction {
+  color: rgb(128,255,0);
+}
+.iconcenter{
+  text-align: center;
+}
+.icon {
+  width: 100px;
+  height: 100px;
+  margin: 0px 0px 0px 0px;
+}
+.paragraph {
+  font-family: Times New Roman,Tahoma,Arial;
+  text-align: center;
+  opacity: 0.5;
+}
+
+
+
+.dnfmheedcolor{
+  background-color: rgb(
+  96,130,222
+  );
+  color: white;
+  text-align: center;
+  
+}
+
+.figspan {
+  color: rgb(42,163,138);
+  color: red;
+}
+
+.dinner {
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+ 
+}
+.dnfminline{
+  display: inline-block;
+}
+.dnfmcenter{
+  text-align: center;
+}
+.dnfmmargin{
+  margin-right: 3%;
+  margin-left: 3%;
+}
+.family{
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+}
+
+
+.health {
+  width: 50px;
+  height: 50px;
+  margin: 0px 0px 0px 0px;
+  display:  inline-block;
+}
+.heedinline{
+  display: inline-block;
+}
+.heedcenter{
+  text-align: center;
+}
+.heedmargin{
+  margin-left: 3%;
+  margin-right: 3%;
+}
+.education {
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+}
+
+
+
+.icon2 {
+  width: 60px;
+  height: 60px;
+}
+.icon2center{
+  text-align: center;
+}
+
+
+.dsizing{
+  width: 130px;
+  height: 130px;
+  background-color: rgba(205,205,205,0.2);
+  display: inline-block;
+  margin-left: 5%;
+  margin-right: 5%;
+  box-shadow: 8px 8px rgba(205,205,205,0.8);
+  
+}
+.donfmcenter{
+  text-align: center;
+}
+.dnfmhediinline{
+  display: inline-block;
+}
+
+.isizing{
+  width: 50px;
+  height: 50px;
+  margin: 25px 0px 0px 0px;
+}
+
+
+
+.figcl {
+  color: red;
+}
+.figcenter{
+  text-align: center;
+}
+.doingcontainer{
+  background-color: rgba(205,205,205,0.3);
+  text-align: center;
+}
+.mission{
+  margin-left: 10.5%;
+  color: rgba(96,130,240,1);
+}
+.miscenter{
+  text-align: center;
+}
+.liver{
+  height: 50px;
+  width: 50px;
+}
+.msliver{
+  display: inline-block;
+  color: blue;
+  background-color: rgba(205,205,205,0.2);
+  width: 250px;
+}
+.house{
+  height: 50px;
+  width: 50px;
+}
+.mshouse{
+  display: inline-block;
+  background-color: rgba(205,205,205,0.2);
+  width: 250px;
+  color: blue;
+}
+.laptop{
+  height: 50px;
+  width: 50px;
+}
+.mslaptop{
+  display: inline-block;
+  background-color: rgba(205,205,205,0.2);
+  width: 250px;
+  color: blue;
+}
+.desert{
+  height: 50px;
+  width: 50px;
+}
+.msdesert{
+  display: inline-block;
+  background-color: rgba(205,205,205,0.2);
+  width: 250px;
+  color: blue;
+}
+.msmargin{
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+.backmission{
+  background-color: rgba(205,205,205,0.09);
+}
+.events{
+  margin-left: 10%;
+  margin-top: 3%;
+}
+.eventpara{
+  margin-left: 10.5%;
+}
+.imageg{
+  margin-left: 10.5%;
+}
+.image1{
+  width: 250px;
+  height: 150px;
+  margin-top: 3%;
+}
+.image2{
+  width: 250px;
+  height: 150px;
+  margin-top: 3%;
+}
+.image3{
+  width: 250px;
+  height: 150px;
+  margin-top: 3%;
+}
+.image4{
+  width: 250px;
+  height: 150px;
+  margin-top: 3%;
+}
+.image5{
+  width: 250px;
+  height: 150px;
+  margin-top: 3%;
+}
+.footer{
+  background-color: rgb(
+  5, 3, 46
+  );
+}
+.flasthalf{
+  display: inline-block;
+  color:  rgba(205,205,205,0.9);
+}
+.flasthalf2{
+  margin-left: 10%;
+}
+.llasthalf{
+  display: inline-block;
+  color: white;
+}
+.llasthalf2{
+  margin-left: 10%;
+}
+.lpara{
+  margin-bottom: -10px;
+}
+
+.pf{
+  width: 300px;
+  
+}
+.facebookf{
+  width: 15px;
+  height: 15px;
+}
+.tweeterf{
+  width: 15px;
+  height: 15px;
+}
+.youtubef{
+  width: 15px;
+  height: 15px;
+}
+.whatsappf{
+  width: 15px;
+  height: 15px;
+}
+.instagram{
+  width: 15px;
+  height: 15px;
+}
+.telephone {
+  width: 10px;
+  height: 10px;
+}
+.world{
+  width: 10px;
+  height: 10px;
+}
+.mail{
+  width: 13px;
+  height: 13px;
+}
